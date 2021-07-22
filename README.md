@@ -21,6 +21,8 @@ In this deliverable, we were tasked to determine the number of retiring employee
 
 1,761 Assistant Engineer
 
+![pngg](https://user-images.githubusercontent.com/80492376/126585131-2f9f3a9e-50d4-4565-adf3-29a7999007f7.png)
+
 
 ## Summary
 
