@@ -30,4 +30,4 @@ In this deliverable, we were tasked to determine the number of retiring employee
 
 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-No, we have 1,940 employees who are eligible to participate in a mentorship program.
+Yes, we have 90398 people who are qualified for retirement and only 1,940 employees who are eligible to participate in a mentorship program.
